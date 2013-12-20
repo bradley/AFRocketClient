@@ -1,3 +1,7 @@
+# About this Fork
+
+AFNetworking's AFRocketClient seems to be very much still in its early stages at the time of this writing (Dec. 19, 2013) and its documentation sadly does not comply with its actual implementation. This fork is an effort to remedy some of its pitfalls -- A playground before attempting to contribute to AFRocketClient's main repo. :hurtrealbad:
+
 # AFRocketClient
 
 [Rocket](http://rocket.github.io) is a technique for building real-time functionality on top of REST web services that leverages web standards like [Server-Sent Events](http://dev.w3.org/html5/eventsource/) and [JSON Patch](http://tools.ietf.org/html/rfc6902).
