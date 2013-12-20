@@ -33,7 +33,7 @@
  
  @see http://rocket.github.io
  */
-@interface AFRocketClient : NSObject
+@interface AFRocketClient : AFHTTPSessionManager
 
 /**
  The request serializer. By default, this is an instance of `AFEventSourceRequestSerializer`.
